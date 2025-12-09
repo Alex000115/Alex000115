@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alex000115&style=flat" />
+  <img src="https://img.shields.io/github/followers/Alex000115?label=Followers&style=flat" />
+</p>
+
 <h1 align="center">Hi, I'm Alex 👋</h1>
 
 <p align="center">
