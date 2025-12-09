@@ -3,7 +3,13 @@
   <img src="https://img.shields.io/github/followers/Alex000115?label=Followers&style=flat" />
 </p>
 
-<h1 align="center">Hi, I'm Alex 👋</h1>
+<p align="center">
+  <a href="https://github.com/Alex000115">
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00A8FF&center=true&vCenter=true&width=600&lines=Developer+from+Bangladesh;I+love+building+cool+apps;Learning+JavaScript+%7C+React;Coffee+%2B+Code+%3D+Life%E2%9D%A4%EF%B8%8F">
+  </a>
+</p>
+
+
 
 <p align="center">
 A passionate learner exploring Web development, Blockchain & App development.
