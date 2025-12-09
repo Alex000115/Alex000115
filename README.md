@@ -17,22 +17,22 @@ A passionate learner exploring Web development, Blockchain & App development.
 
 ---
 
-🚀 About Me
+## 🚀 About Me
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00A8FF&size=20&duration=3000&width=700&lines=🔭+Currently+building:+smart,+clean+%26+fast+apps">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00A8FF&size=20&duration=6000&repeat=false&width=700&lines=🔭+Currently+building:+smart,+clean+%26+fast+apps">
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00A8FF&size=20&duration=3000&width=700&lines=🌱+Learning+every+day:+JavaScript,+TypeScript+%26+React">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00A8FF&size=20&duration=6000&repeat=false&width=700&lines=🌱+Learning+every+day:+JavaScript,+TypeScript+%26+React">
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00A8FF&size=20&duration=3000&width=700&lines=💬+Ask+me+about:+UI+ideas,+creative+frontend+%26+crypto+concepts">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00A8FF&size=20&duration=6000&repeat=false&width=700&lines=💬+Ask+me+about:+UI+ideas,+creative+frontend+%26+crypto+concepts">
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00A8FF&size=20&duration=3000&width=700&lines=⚡+Fun+Fact:+I+write+code+like+art+—+powered+by+coffee+☕❤️">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00A8FF&size=20&duration=6000&repeat=false&width=700&lines=⚡+Fun+Fact:+I+write+code+like+art+—+powered+by+coffee+☕❤️">
 </p>
 
 
