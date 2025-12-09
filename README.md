@@ -17,15 +17,24 @@ A passionate learner exploring Web development, Blockchain & App development.
 
 ---
 
-## 🚀 🚀 About Me
+🚀 About Me
 
-🔭 Currently building: smart, clean & fast apps
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00A8FF&size=20&duration=3000&width=700&lines=🔭+Currently+building:+smart,+clean+%26+fast+apps">
+</p>
 
-🌱 Learning every day: JavaScript, TypeScript & React
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00A8FF&size=20&duration=3000&width=700&lines=🌱+Learning+every+day:+JavaScript,+TypeScript+%26+React">
+</p>
 
-💬 Ask me about: UI ideas, creative frontend & crypto concepts
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00A8FF&size=20&duration=3000&width=700&lines=💬+Ask+me+about:+UI+ideas,+creative+frontend+%26+crypto+concepts">
+</p>
 
-⚡ Fun Fact: I write code like art — powered by coffee ☕❤️  
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00A8FF&size=20&duration=3000&width=700&lines=⚡+Fun+Fact:+I+write+code+like+art+—+powered+by+coffee+☕❤️">
+</p>
+
 
 ---
 
