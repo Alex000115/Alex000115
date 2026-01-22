@@ -12,7 +12,8 @@
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center">🚀 About Me💖✨🚀
+</h2>
 
 <p align="center">
 I’m a <b>Full Stack Developer & Web3 Builder</b> from <b>Bangladesh 🇧🇩</b>  
