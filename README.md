@@ -76,12 +76,23 @@ I love working on <b>open-source, crypto tools, and developer-focused products</
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://github.com/Alex000115">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="mailto:nazrulwork08@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook"/>
-  </a>
+
+<a href="mailto:nazrulwork08@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://farcaster.xyz/alex000115">
+  <img src="https://img.shields.io/badge/Farcaster-7C65C1?style=for-the-badge&logo=ethereum&logoColor=white"/>
+</a>
+
+<a href="https://zora.co/@0xnazrul">
+  <img src="https://img.shields.io/badge/Zoea-000000?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
+</a>
+
+<a href="https://base.app/profile/0xd296258F46C3183b10d13582D686ba6989880977">
+  <img src="https://img.shields.io/badge/Base_Profile-0052FF?style=for-the-badge&logo=coinbase&logoColor=white"/>
+</a>
+
 </p>
 
 ---
