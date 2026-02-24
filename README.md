@@ -77,7 +77,7 @@ I love working on <b>open-source, crypto tools, and developer-focused products</
 ## 🌐 Connect With Me
 <p align="center">
 
-<a href="mailto:nazrulwork08@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&to=nazrulwork8@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
