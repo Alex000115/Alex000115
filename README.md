@@ -89,10 +89,6 @@ I love working on <b>open-source, crypto tools, and developer-focused products</
   <img src="https://img.shields.io/badge/Zoea-000000?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
 </a>
 
-<a href="https://base.app/profile/0xd296258F46C3183b10d13582D686ba6989880977">
-  <img src="https://img.shields.io/badge/Base_Profile-0052FF?style=for-the-badge&logo=coinbase&logoColor=white"/>
-</a>
-
 </p>
 
 ---
